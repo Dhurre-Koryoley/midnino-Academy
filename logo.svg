@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Midnimo Academy for Science and Technology</title>
+  <defs>
+    <path id="upper-arc" d="M 47,260 A 209,209 0 0 1 465,260" />
+    <path id="lower-arc" d="M 52,270 A 204,204 0 0 0 460,270" />
+  </defs>
+  <circle cx="256" cy="256" r="250" fill="#174b9b" />
+  <circle cx="256" cy="256" r="234" fill="none" stroke="#4e82ce" stroke-width="3" />
+  <circle cx="256" cy="256" r="190" fill="#fffefa" stroke="#d9e6f5" stroke-width="4" />
+  <text fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1.1">
+    <textPath href="#upper-arc" startOffset="50%" text-anchor="middle">MIDNIMO ACADEMY FOR SCIENCE AND TECHNOLOGY</textPath>
+  </text>
+  <text fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">
+    <textPath href="#lower-arc" startOffset="50%" text-anchor="middle">AKADEEMIYADDA MIDNIMO EE CAAFIMAADKA IYO TEKNOLOJIYADA</textPath>
+  </text>
+  <g fill="none" stroke="#df873b" stroke-linecap="round" stroke-width="9">
+    <path d="M256 121V78M222 129l-15-39M290 129l15-39M199 151l-29-29M313 151l29-29M184 179l-36-17M328 179l36-17" />
+  </g>
+  <circle cx="256" cy="151" r="36" fill="#e89543" />
+  <g fill="none" stroke="#d88136" stroke-linecap="round" stroke-width="5">
+    <path d="M122 371c-31-51-34-111-7-165M390 371c31-51 34-111 7-165" />
+  </g>
+  <g fill="#e39a4b">
+    <ellipse cx="119" cy="318" rx="7" ry="19" transform="rotate(-39 119 318)" />
+    <ellipse cx="110" cy="285" rx="7" ry="18" transform="rotate(-22 110 285)" />
+    <ellipse cx="108" cy="251" rx="7" ry="18" transform="rotate(-8 108 251)" />
+    <ellipse cx="113" cy="220" rx="7" ry="17" transform="rotate(14 113 220)" />
+    <ellipse cx="129" cy="191" rx="7" ry="17" transform="rotate(35 129 191)" />
+    <ellipse cx="393" cy="318" rx="7" ry="19" transform="rotate(39 393 318)" />
+    <ellipse cx="402" cy="285" rx="7" ry="18" transform="rotate(22 402 285)" />
+    <ellipse cx="404" cy="251" rx="7" ry="18" transform="rotate(8 404 251)" />
+    <ellipse cx="399" cy="220" rx="7" ry="17" transform="rotate(-14 399 220)" />
+    <ellipse cx="383" cy="191" rx="7" ry="17" transform="rotate(-35 383 191)" />
+  </g>
+  <path d="M165 227h79v119l-79-16z" fill="#e58b36" />
+  <path d="M268 227h79v103l-79 16z" fill="#37b9b6" />
+  <path d="M244 227h24v119l-12 12-12-12z" fill="#f4f7f7" />
+  <path d="M175 240v76l59 12V240zM278 240v88l58-12v-76z" fill="none" stroke="#f9f8ef" stroke-width="4" />
+  <g fill="#43c2be" stroke="#258c91" stroke-width="2">
+    <path d="M253 190c-15-17-34-19-55-13 14 4 22 11 29 21-15-9-28-9-43-5 16 6 24 16 34 25 11-6 22-10 35-9z" />
+    <path d="M259 190c15-17 34-19 55-13-14 4-22 11-29 21 15-9 28-9 43-5-16 6-24 16-34 25-11-6-22-10-35-9z" />
+  </g>
+  <path d="M256 187v151" stroke="#f7f7f2" stroke-width="8" stroke-linecap="round" />
+  <path d="M256 214c-26 0-25 22 0 25s26 24 0 24-25 23 0 26 26 23 0 25" fill="none" stroke="#f7f7f2" stroke-width="6" stroke-linecap="round" />
+  <circle cx="256" cy="185" r="11" fill="#fff" stroke="#d5dfe4" stroke-width="3" />
+  <g fill="none" stroke="#3eb8b5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+    <path d="M333 228v26c0 16 12 25 25 25s25-9 25-25v-15" />
+    <path d="M383 239v-16" />
+    <circle cx="383" cy="213" r="7" fill="#3eb8b5" stroke="none" />
+  </g>
+  <g fill="#fff">
+    <path d="m174 414 7 15 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z" />
+    <path d="m256 407 7 15 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z" />
+    <path d="m338 414 7 15 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z" />
+  </g>
+</svg>
